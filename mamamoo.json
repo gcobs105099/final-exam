@@ -6,7 +6,9 @@
     "Place Of Birth": "Seoul, South Korea",
     "Height": "162cm",
     "Weight": "43kg",
-    "Position": "Leader�BMain Vocal�BVisual"
+    "Position": "Leader�BMain Vocal�BVisual",
+    "pic": "solar.jpg",
+    "picture": "solar.jpg"
   },
   {
     "Stage Name": "Moon Byul",
@@ -15,7 +17,9 @@
     "Place Of Birth": "Bucheon, South Korea",
     "Height": "163cm",
     "Weight": "45kg",
-    "Position": "Main Rapper�BMain Dancer"
+    "Position": "Main Rapper�BMain Dancer",
+    "pic": "moonbyul.jpg",
+    "picture": "moonbyul.jpg"
   },
   {
     "Stage Name": "Whee In",
@@ -24,7 +28,9 @@
     "Place Of Birth": "Jeonju City, South Korea",
     "Height": "159cm",
     "Weight": "43kg",
-    "Position": "Lead vocal�BLead Dancer"
+    "Position": "Lead vocal�BLead Dancer",
+    "pic": "wheein.jpg",
+    "picture": "wheein.jpg"
   },
   {
     "Stage Name": "Hwa Sa",
@@ -33,6 +39,8 @@
     "Place Of Birth": "Jeonju City, South Korea",
     "Height": "160cm",
     "Weight": "44kg",
-    "Position": "Rapper�BChorus�BYoungest"
+    "Position": "Rapper�BChorus�BYoungest",
+    "pic": "hwasa.jpg",
+    "picture": "hwasa.jpg"
   }
 ]
